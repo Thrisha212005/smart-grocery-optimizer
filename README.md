@@ -20,18 +20,19 @@ Built using a no-code AI development platform, this application focuses on simpl
 
 ## 📸 Screenshots
 
-### 🟢 Dashboard
-![Dashboard](Screenshot 2026-04-14 233536.png)
+🟢 Dashboard  
+![Dashboard](dashboard.png)
 
-### 🛒 My List
-![My List](Screenshot 2026-04-14 233650.png)
+🛒 My List  
+![My List](my-list.png)
 
-### 🍽 Meal Planner
-![Meal Planner](Screenshot 2026-04-14 233738.png)
+🍽 Meal Planner  
+![Meal Planner](meal-planner.png)
 
-### 💰 Price Comparison
-![Price Comparison](Screenshot 2026-04-14 233816.png)
+💰 Price Comparison  
+![Price Comparison](price-comparison.png)
 
+---
 
 ## 🧠 Core Functionality
 
